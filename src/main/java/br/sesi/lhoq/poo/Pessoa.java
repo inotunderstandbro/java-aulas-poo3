@@ -5,9 +5,9 @@ import br.sesi.lhoq.poo.inferior.Membrosinferiores;
 import br.sesi.lhoq.poo.tronco.Tronco;
 
 public class Pessoa {
-    Cabeca cabeca;
-    Tronco tronco;
-    Membrosinferiores inferioes;
-    
+    public Cabeca cabeca;
+    public Tronco tronco;
+    public Membrosinferiores inferioes;
+
 }
 

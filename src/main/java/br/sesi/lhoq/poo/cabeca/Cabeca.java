@@ -1,8 +1,8 @@
 package br.sesi.lhoq.poo.cabeca;
 
 public class Cabeca {
-    Olho zoio;
-    Orelha zurea;
-    Nariz aspirador;
-    Boca bocudo;
+    public Olho zoio;
+   public Orelha zurea;
+   public Nariz aspirador;
+   public Boca bocudo;
 }
