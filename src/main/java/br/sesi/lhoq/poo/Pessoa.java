@@ -9,5 +9,10 @@ public class Pessoa {
     public Tronco tronco;
     public Membrosinferiores inferioes;
 
+    public Pessoa(){
+        this.cabeca = new Cabeca();
+        this.tronco = new Tronco();
+        this.inferioes = new Membrosinferiores();
+    }
 }
 
